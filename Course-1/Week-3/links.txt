@@ -1,0 +1,13 @@
+Сравнение переменных разных типов. Абстрактный Алгоритм Эквивалентного Сравнения - http://www.ecma-international.org/ecma-262/5.1/#sec-11.9.3
+
+Декларация и конфигурирование свойств объекта. Object.defineProperties - https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference/Global_Objects/Object/defineProperties
+
+Геттеры и сеттеры. Object.defineProperties - https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference/Global_Objects/Object/defineProperties
+
+Объект Date - https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference/Global_Objects/Date
+
+Объект Math - https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference/Global_Objects/Math
+
+Регулярные выражения. PCRE (Perl Compatible Regular Expressions) - https://ru.wikipedia.org/wiki/PCRE
+
+Руководство по регулярным выражениям - https://learn.javascript.ru/regular-expressions-javascript

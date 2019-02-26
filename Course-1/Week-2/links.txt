@@ -1,0 +1,7 @@
+Методы для работы со строками - https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference/Global_Objects/String#Methods_of_String_instance
+
+Пример преобразования строки к числу - https://yandex.ru/search/?text=100%24%20%D0%B2%20%D1%80%D1%83%D0%B1%D0%BB%D1%8F%D1%85&clid=1955453&win=198&lr=54
+
+Функции для работы со строками - https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference/Global_Objects/String
+
+Функции для работы с массивами - https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference/Global_Objects/Array

@@ -1,0 +1,3 @@
+Типы данных JavaScript - https://developer.mozilla.org/ru/docs/Web/JavaScript/Data_structures
+
+Строгий режим. Список всех особенностей - http://www.ecma-international.org/ecma-262/8.0/index.html#sec-strict-mode-of-ecmascript
