@@ -1,0 +1,60 @@
+История
+Спецификация HTML5.1
+www.w3.org
+
+Спецификация WHATWG
+html.spec.whatwg.org
+
+История HTML
+www.w3.org
+
+О «Войне браузеров»
+ru.wikipedia.org
+
+Мифы W3C
+W3C
+www.w3.org
+
+Способы отслеживать разработку спецификаций
+www.w3.org
+
+Анатомия HTML
+Список элементов без закрывающего тега
+www.w3.org
+
+Полный список html-entity
+www.w3.org
+
+Основы HTML
+webref.ru
+
+Элементы
+Валидатор html
+validator.w3.org
+
+HTML–справочник
+webref.ru
+
+Атрибут rel
+www.w3.org
+
+Что такое RSS
+cyber.harvard.edu
+
+Подробный список Open Graph тегов
+fbdevwiki.com
+
+Группирующие элементы
+HTML 5 Book
+html5book.ru
+
+HTML–списки
+html5book.ru
+
+Таблицы
+HTML–таблицы
+html5book.ru
+
+Текстовые элементы
+Теги для форматирования текста
+html5book.ru

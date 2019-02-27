@@ -1,0 +1,66 @@
+Cпецификация HTML5 - https://www.w3.org/TR/html5/Overview.html
+
+Список всех доступных HTML Entities - https://www.w3.org/TR/html5/syntax.html#named-character-references
+
+HTML Валидатор - https://validator.w3.org/
+
+Все типы ссылок - https://www.w3.org/TR/html5/links.html#linkTypes
+
+Список OpenGraph тегов - http://fbdevwiki.com/wiki/Open_Graph_protocol
+
+
+Семантическая разметка
+
+Семантические элементы HTML5 - https://html5book.ru/html5-semantic-elements/
+
+Валидатор микроразметки - https://webmaster.yandex.ru/tools/microtest/
+
+Microformats - http://microformats.org/wiki/Main_Page
+
+Schema.org - https://yandex.ru/support/webmaster/schema-org/intro-schema-org.xml?lang=ru
+
+О нюансах использования заголовков - https://webdesign.tutsplus.com/articles/the-truth-about-multiple-h1-tags-in-the-html5-era--webdesign-16824
+
+Ссылочные элементы
+
+Что такое URL - https://ru.wikipedia.org/wiki/URL
+
+Anchors and Links - http://html.com/anchors-links/
+
+HTML–ссылки - https://html5book.ru/hyperlinks-in-html/
+
+Встраиваемые элементы
+
+Альтернативный текст для изображений - http://prgssr.ru/development/alternativnyj-tekst-dlya-izobrazhenij.html
+
+Таблица: видеокодеки и браузеры - https://webref.ru/html/video
+
+Таблица: аудиокодеки и браузеры - https://webref.ru/html/audio
+
+Getting Started With the Track Element - https://www.html5rocks.com/en/tutorials/track/basics/
+
+HTML–изображения - https://html5book.ru/images-in-html/
+
+Формат vtt - http://w3c.github.io/html/semantics.html#the-track-element
+
+Элементы форм
+
+Input - https://webref.ru/html/input
+
+HTML5–формы - https://html5book.ru/html5-forms/
+
+Элементы форм - https://webref.ru/html/type/form
+
+Тег <form>
+
+Элемент form - https://webref.ru/html/form
+
+HTTP methods - https://www.w3.org/Protocols/rfc2616/rfc2616-sec9.html#sec9.5
+
+Интернационализация
+
+«Типографика восток» - https://youtu.be/9YQzHmIVYag?list=PLKaafC45L_SRke8G1qiE0ZTJovI0FYKRw
+
+UTF-8 - https://ru.wikipedia.org/wiki/UTF-8
+
+Юникод - https://ru.wikipedia.org/wiki/%D0%AE%D0%BD%D0%B8%D0%BA%D0%BE%D0%B4
