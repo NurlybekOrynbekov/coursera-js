@@ -1,0 +1,9 @@
+Псевдоэлементы - http://htmlbook.ru/samcss/psevdoelementy
+
+Псевдоклассы - http://htmlbook.ru/css/cat/pseudoclass
+
+Селекторы CSS - https://webref.ru/course/css-basics/selectors
+
+Каскадирование - http://htmlbook.ru/samcss/kaskadirovanie
+
+Приоритет в CSS - https://webref.ru/course/css-basics/priority
