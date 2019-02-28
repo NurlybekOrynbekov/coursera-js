@@ -1,0 +1,33 @@
+.animation {
+    width: 150px;
+    height: 150px;
+    background: #f00;
+
+    animation-name: anim;
+    animation-duration: 3s;
+    /* animation-delay: 1s; */
+    animation-fill-mode: forwards;
+    animation-timing-function: linear;
+    animation-iteration-count: infinite;
+    animation-direction: alternate;
+
+    transition: color, .5s;
+}
+
+.animation:hover {
+    background: #ff0;
+}
+
+
+@keyframes anim {
+    25% {
+        transform: translateX(100px);
+    }
+    50% {
+        transform: translate(100px, 100%); 
+    }
+    75%, 100% {
+        transform: rotate(145deg) scale(2)
+    }
+
+}
