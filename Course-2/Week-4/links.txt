@@ -1,0 +1,94 @@
+Что такое шрифт? Анатомия шрифта
+
+Старая, но познавательная статья о шрифтах - http://www.compuart.ru/article.aspx?id=23461&iid=1079
+
+Размер шрифта
+
+Описание font-size - https://developer.mozilla.org/ru/docs/Web/CSS/font-size
+
+Единицы измерения длины - https://developer.mozilla.org/ru/docs/Web/CSS/%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80
+
+Высота строки. Расстояние между буквами и словами
+
+Описание line-height - https://developer.mozilla.org/en-US/docs/Web/CSS/line-height
+
+Описание letter-spacing - https://developer.mozilla.org/en-US/docs/Web/CSS/letter-spacing
+
+Описание word-spacing - https://developer.mozilla.org/en-US/docs/Web/CSS/word-spacing
+
+Начертание шрифта
+
+Описание font-style - https://developer.mozilla.org/en-US/docs/Web/CSS/font-style
+
+Описание font-weight - https://developer.mozilla.org/en-US/docs/Web/CSS/font-weight
+
+Описание font-variant - https://developer.mozilla.org/en-US/docs/Web/CSS/font-variant
+
+Описание font-stretch - https://developer.mozilla.org/en-US/docs/Web/CSS/font-stretch
+
+Семейства шрифтов. Проблемы использования нестандартных шрифтов
+
+Описание font-family - https://developer.mozilla.org/en-US/docs/Web/CSS/font-family
+
+Описание @font-face - https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face
+
+Генератор шрифтов на Font Squirrel - https://www.fontsquirrel.com/tools/webfont-generator
+
+Google Fonts - https://fonts.google.com/
+
+Сравнение работы различных генераторов шрифтов - https://habrahabr.ru/company/webfont/blog/217949/
+
+Статья о FOUT, FOIT, FOFT - https://css-tricks.com/fout-foit-foft/
+
+Статья об оптимизации шрифтов от Google - https://developers.google.com/web/fundamentals/performance/optimizing-content-efficiency/webfont-optimization
+
+Свойство font
+
+Описание font - https://developer.mozilla.org/en-US/docs/Web/CSS/font
+
+Базовые свойства для работы с текстом
+
+Описание text-align - https://developer.mozilla.org/en-US/docs/Web/CSS/text-align
+
+Описание text-decoration - https://developer.mozilla.org/en-US/docs/Web/CSS/text-decoration
+
+Статья о способах подчеркивания в CSS - http://prgssr.ru/development/sposoby-podcherkivaniya.html
+
+Описание text-transform - https://developer.mozilla.org/en-US/docs/Web/CSS/text-transform
+
+Описание color - https://developer.mozilla.org/en-US/docs/Web/CSS/color
+
+Исчерпывающая статья о цвете в Web - https://css-tricks.com/nerds-guide-color-web/
+
+Описание text-shadow - https://developer.mozilla.org/en-US/docs/Web/CSS/text-shadow
+
+Многоколоночность и переполнение текста
+
+Многоколоночность и переполнение текста - https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Columns/Using_multi-column_layouts
+
+Статья о многоколоночности - https://habrahabr.ru/company/microsoft/blog/143158/
+
+Описание overflow - https://developer.mozilla.org/en-US/docs/Web/CSS/overflow
+
+Сниппет с использованием ellipsis - https://css-tricks.com/snippets/css/truncate-string-with-ellipsis/
+
+Форматирование пробелов и переносов в тексте
+
+Описание <br> - https://developer.mozilla.org/en-US/docs/Web/HTML/Element/br
+
+Описание hyphens - https://developer.mozilla.org/en-US/docs/Web/CSS/hyphens
+
+Сервис расстановки мягких переносов - http://quittance.ru/hyphenator.php
+
+Описание <wbr> - https://developer.mozilla.org/en-US/docs/Web/HTML/Element/wbr
+
+Описание word-break - https://developer.mozilla.org/en-US/docs/Web/CSS/word-break
+
+Описание white-space - https://developer.mozilla.org/en-US/docs/Web/CSS/white-space
+
+Псевдоэлементы
+
+Описание ::first-line - https://developer.mozilla.org/en-US/docs/Web/CSS/::first-line
+
+Описание ::first-letter - https://developer.mozilla.org/en-US/docs/Web/CSS/::first-letter
+
