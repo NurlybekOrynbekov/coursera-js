@@ -1,0 +1,45 @@
+Преобразования
+
+Трансформация - https://webref.ru/layout/advanced-html-css/transform
+
+Transform generator - http://www.css3maker.com/css3-transform.html
+
+Множественные преобразования
+
+Transform-origin - https://tympanus.net/codrops/css_reference/transform-origin/
+
+Преобразования в трехмерном пространстве
+
+Intro 3d transform - https://desandro.github.io/3dtransforms/
+
+CSS 3d–трансформации - https://html5book.ru/3d-transform/
+
+Изучаем матрицы трансформаций в CSS - https://dev.opera.com/articles/ru/understanding-the-css-transforms-matrix/
+
+Переходы
+
+Список анимируемых свойств - https://www.w3.org/TR/css3-transitions/#animatable-properties
+
+Генератор функции Безье - http://cubic-bezier.com/
+
+Функции плавности - http://easings.net/ru
+
+Пример: гелиевый шарик - https://codepen.io/stephengreig/pen/vbqBh
+
+CSS переходы - https://developer.mozilla.org/ru/docs/Web/CSS/CSS_Transitions/Using_CSS_transitions
+
+Анимации
+
+Использование CSS анимаций - https://developer.mozilla.org/ru/docs/Web/CSS/CSS_Animations/Ispolzovanie_CSS_animatciy
+
+CSS3 анимация - https://html5book.ru/css3-animation/
+
+Разбор задач по теме
+
+Creative Link Effects - https://tympanus.net/Development/CreativeLinkEffects/#cl-effect-1
+
+Day night simulation - https://codepen.io/Catagen/pen/PqYdXR#0
+
+Solar System - https://codepen.io/juliangarnier/pen/idhuG
+
+Pure CSS - http://www.keithclark.co.uk/labs/css-fps/nojs/
