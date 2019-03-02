@@ -1,0 +1,9 @@
+Layer 3: Constructors—Factories for Instances - http://speakingjs.com/es5/ch17.html#constructors
+
+Layer 4: Inheritance Between Constructors - http://speakingjs.com/es5/ch17.html#constructor_inheritance
+
+Common Misconceptions About Inheritance in JavaScript - https://medium.com/javascript-scene/common-misconceptions-about-inheritance-in-javascript-d5d9bab29b0a
+
+Лекция про this - https://github.com/urfu-2015/javascript-lectures/blob/master/5-this.md
+
+ООП в прототипном стиле - http://learn.javascript.ru/prototypes
