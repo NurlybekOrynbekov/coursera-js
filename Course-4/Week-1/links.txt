@@ -1,0 +1,9 @@
+Layer 1: Single Objects - http://speakingjs.com/es5/ch17.html#single_objects
+
+Layer 2: The Prototype Relationship Between Objects - http://speakingjs.com/es5/ch17.html#prototype_relationship
+
+Object.defineProperty() - https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference/Global_Objects/Object/defineProperty
+
+Лекция про this - https://github.com/urfu-2015/javascript-lectures/blob/master/5-this.md
+
+Прототип объекта - http://learn.javascript.ru/prototype
