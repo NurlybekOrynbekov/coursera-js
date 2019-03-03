@@ -1,0 +1,8 @@
+Why does document.querySelectorAll return a StaticNodeList rather than a real Array? - https://stackoverflow.com/questions/2600343/why-does-document-queryselectorall-return-a-staticnodelist-rather-than-a-real-ar/2601582
+stackoverflow.com
+
+Документация: Node - https://developer.mozilla.org/ru/docs/Web/API/Node
+developer.mozilla.org
+
+Документация: Element - https://developer.mozilla.org/ru/docs/Web/API/Element
+developer.mozilla.org
