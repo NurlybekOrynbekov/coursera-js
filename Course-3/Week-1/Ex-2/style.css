@@ -1,80 +1,82 @@
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
 body {
-    margin: 0;
-    padding: 0;
+    padding: 25px;
 }
 
-p {
-    margin: 0;
-    padding: 0;
-}
-
-article {
+.product-item {
     display: inline-block;
-    width: 250px;
-    height: 500px;
-    margin-left: 50px;
-    margin-top: 50px;
+    width: 300px;
+    padding: 10px 10px 5px 10px;
+    margin-left: 15px;
+    margin-top: 15px;
+    border: 1px solid #eee;
+    background: white;
     overflow: hidden;
-    text-overflow: ellipsis;
 }
 
-img {
-    height: 300px;
-    width: 250px;
-}
-
-article:hover img {
+.product-item:hover .product-img {
     opacity: 0.7;
 }
 
-.name {
-    font-size: 24px;
-    overflow: hidden;
-    text-overflow: ellipsis;
-    white-space: nowrap;
-}
-
-.category {
-    display: inline;
-    font-size: 12px;
-    color: #4e4e4e;
-    text-decoration: underline;
-}
-
-.name a:hover, .category:hover {
-    color: #f00;
-}
-
-.rating {
-    font-size: 20px;
-}
-
-.price::before, .price .discount::before {
-    content: '$';
-}
-
-.price {
-    font-size: 20px;
-    color: #f00;
-    margin-bottom: 5px;
-}
-
-.discount {
-    font-size: 16px;
-    text-decoration: line-through;
-    color: #000;
-}
-
-.description {
-    font-size: 14px;
-}
-
-
-#list:checked ~ article {
+.product-img img {
     display: block;
     width: 100%;
 }
 
-#list:checked ~ article .info, .description {
+.product-list {
+    margin-top: 15px;
+}
+
+.product-list h3 {
+    font-weight: 700;
+    color: #39404B;
+    margin: 0;
+    font-size: 18px;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.category {
+    color: darkgray;
+    font-size: 12px;
+    text-decoration: underline;
+}
+
+.product-list h3 a:hover,
+.category:hover {
+    color: #E34D38;
+}
+
+.price {
+    color: #E34D38;
     display: inline-block;
+    margin-bottom: 12px;
+    font-weight: 700;
+    font-size: 18px;
+}
+
+.discount {
+    display: inline-block;
+    margin-bottom: 12px;
+    text-decoration: line-through;
+    font-size: 14px;
+}
+
+.stars {
+    height: 14px;
+    line-height: 14px;
+    margin: 7px 0;
+}
+
+.stars:before {
+    content: "\f005\f005\f005\f005\f006";
+    color: #EFB71C;
+    font-size: 14px;
+    font-family: FontAwesome;
 }

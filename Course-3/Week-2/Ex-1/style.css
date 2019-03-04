@@ -1,0 +1,18 @@
+body {
+    height: 10000px;
+}
+
+section {
+    position: fixed;
+    border: 1px solid green;
+    padding: 10px 10px 20px 10px;
+    width: 150px;
+    top: 25px;
+    right: 25px;
+}
+
+button {
+    position: absolute;
+    right: -5px;
+    bottom: -5px;
+}
