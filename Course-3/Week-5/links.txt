@@ -1,0 +1,42 @@
+Спецификация SVG - https://www.w3.org/TR/SVG11/
+www.w3.org
+
+Про SVG в MDN - https://developer.mozilla.org/ru/docs/Web/SVG
+developer.mozilla.org
+
+Цветовые модели: RGB, HSV, HSL - https://en.wikibooks.org/wiki/Color_Models:_RGB,_HSV,_HSL
+en.wikibooks.org
+
+Знакомство с SVG-графикой - https://habrahabr.ru/post/157087/
+habrahabr.ru
+
+SVG в вебе - https://svgontheweb.com/ru/
+svgontheweb.com
+
+Методы компрессии и сжатия изображений - http://www.infocity.kiev.ua/graf/content/graf143.phtml
+www.infocity.kiev.ua
+
+Работа с изображениями - https://www.artlebedev.ru/technogrette/img/
+www.artlebedev.ru
+
+Простой секрет ГИФа - https://www.artlebedev.ru/kovodstvo/sections/8/
+www.artlebedev.ru
+
+Статья «Прогрессивный JPEG: новый best practice» - https://habrahabr.ru/post/165645/
+habrahabr.ru
+
+Работа с макетом - https://events.yandex.ru/lib/talks/1498/
+events.yandex.ru
+
+Полное руководство по началу работы в Sketch - http://sketchapp.me/polnoe-rukovodstvo-po-nachalu-raboty-v-sketch-s-besplatnoj-shpargalkoj/
+sketchapp.me
+
+CSS3-градиент - https://html5book.ru/css3-gradient/
+html5book.ru
+
+Статья «Хорошо ли вы знаете linear-gradient?» - https://habrahabr.ru/company/paysto/blog/256479/
+habrahabr.ru
+
+CSS спрайты: основные техники и полезные инструменты - https://habrahabr.ru/post/159027/
+habrahabr.ru
+

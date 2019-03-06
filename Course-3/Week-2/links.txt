@@ -1,0 +1,8 @@
+Абсолютная система позиционирования - https://www.w3.org/TR/CSS2/visuren.html#absolute-positioning
+www.w3.org
+
+Статья «То, что вам никто не говорил о z-index» - https://habrahabr.ru/post/166435/
+habrahabr.ru
+
+Плавающие элементы. Подробно о свойстве float - https://habrahabr.ru/post/142486/
+habrahabr.ru

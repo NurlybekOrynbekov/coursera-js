@@ -1,0 +1,20 @@
+Спецификация flexbox - https://www.w3.org/TR/css-flexbox-1/
+www.w3.org
+
+Спецификация grid - https://www.w3.org/TR/css-grid-1/
+www.w3.org
+
+Статья на MDN про использование flexible контейнеров - https://developer.mozilla.org/ru/docs/Web/CSS/CSS_Flexible_Box_Layout/Using_CSS_flexible_boxes
+developer.mozilla.org
+
+Еще одна статья про flexbox - http://html5.by/blog/flexbox/
+html5.by
+
+Видео «Flexbox, теперь понятно» - https://www.youtube.com/watch?v=x0fcNDaE7Z0
+CodeFest, Вадим Макеев
+
+Сайт «Гриды на примерах» - https://gridbyexample.com/
+gridbyexample.com
+
+Видео «Можно вообще всё. Раскладка по гриду» - https://www.youtube.com/watch?v=JoRVUILXLxU&t=562s
+DUMP, 2016 год, Вадим Макеев
