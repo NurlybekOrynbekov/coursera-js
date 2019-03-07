@@ -1,0 +1,26 @@
+main {
+    width: 1250px;
+    margin: 0 auto;
+}
+
+section {
+    display: none;
+}
+
+.item {
+    width: 300px;
+    display: inline-block;
+}
+
+#page-1:checked ~ #img-1 {
+    display: block;
+}
+#page-2:checked ~ #img-2 {
+    display: block;
+}
+#page-3:checked ~ #img-3 {
+    display: block;
+}
+#page-4:checked ~ #img-4 {
+    display: block;
+}
